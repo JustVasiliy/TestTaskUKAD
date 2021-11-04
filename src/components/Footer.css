@@ -1,0 +1,16 @@
+footer{
+    height: 78px;
+    background-color: #022B32;
+    box-sizing: border-box;
+}
+.boxContainer{
+    padding: 27px 29px;
+}
+.copyright{
+    text-transform: uppercase;
+    color: #fff;
+    font-family: Poppins;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}

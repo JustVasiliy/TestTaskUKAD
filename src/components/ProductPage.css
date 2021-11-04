@@ -1,0 +1,24 @@
+.container{
+    width: 95%;
+    margin: auto;
+    display:flex;
+    flex-direction:row;
+    flex-wrap:wrap;
+    justify-content: space-between;
+}
+.container h1{
+    margin-top: 40px;
+    padding-left: 17px;
+    margin-bottom: 14px;
+    font-family: Poppins;
+    font-weight: bold;
+    font-size: 36px;
+    line-height: 54px;
+    color: #000000;
+    
+}
+@media screen and (max-width:768px){
+    .container{
+        justify-content: center;
+    }
+}
