@@ -28,15 +28,17 @@ class ProductPage extends Component {
     render(){
         const {id} = this.state;
         return (
-            <div>
+            <div >
+                <div>
                 <div className="container">
                 <h1 >Product Page</h1>
                 </div>
                 
-                <div className="container">
+                <div className="container" style={{marginBottom:"15px"}}>
                     { this._listItems = id.map((number) =>
                     <div id={number-1} style={{width:"350px"}}><Card id={number-1}/></div>
                     )}
+                </div>
                 </div>
             </div>
         );

@@ -10,9 +10,10 @@ let App = () =>{
   
   return (
     <div>
-      <Header/>  
+      <div style={{minHeight:"Calc(100vh - 78px)"}}><Header/></div>
       
-      <Footer/>
+       
+      <Footer/>      
     </div>
   )
 }

@@ -10,8 +10,8 @@
 
 .card img{
     height: 66%;
+    object-fit: cover;
     width: 100%;
-    
 }
 .card article{
     padding: 3px 10px 30px;
