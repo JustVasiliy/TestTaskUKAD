@@ -10,10 +10,10 @@ That's all) Enjoy your use.
 
 My project has a simple architecture. Two important folders: src and public.
 Src has three folder:
-1. AtionAPI has a code for conection whith server.
-2. Components has all components which can we see, like Header, Section, Carusel, Footer etc.
-3. Images has only 1 pictures. It is logo our website.
+1) AtionAPI has a code for conection whith server.
+2) Components has all components which can we see, like Header, Section, Carusel, Footer etc.
+3) Images has only 1 pictures. It is logo our website.
 Public has a multiple files:
-1. index.html with root-file and font links 
-2. reset.css which reset default css styles from browser
-3. fovicon.ico for render a small picture in tab.
+1) index.html with root-file and font links 
+2) reset.css which reset default css styles from browser
+3) fovicon.ico for render a small picture in tab.

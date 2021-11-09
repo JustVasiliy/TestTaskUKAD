@@ -6,7 +6,7 @@ import './Header.css'
 import { Route, Switch, BrowserRouter as Router} from 'react-router-dom';
 const Header = () => {
     return (
-        <div style={{haight:"100vh"}}>
+        <div >
         
             
              <Router>

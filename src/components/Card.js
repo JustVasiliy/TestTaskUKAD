@@ -28,7 +28,8 @@ class Card extends Component{
                 })
         }
 
-        );
+        )
+        .catch((error) => console.log(error));
     }
    
     render(){
